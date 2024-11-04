@@ -1,0 +1,17 @@
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/bin/Debug/net8.0/curso
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/bin/Debug/net8.0/curso.deps.json
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/bin/Debug/net8.0/curso.runtimeconfig.json
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/bin/Debug/net8.0/curso.dll
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/bin/Debug/net8.0/curso.pdb
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/obj/Debug/net8.0/curso.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/obj/Debug/net8.0/curso.AssemblyInfoInputs.cache
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/obj/Debug/net8.0/curso.AssemblyInfo.cs
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/obj/Debug/net8.0/curso.csproj.CoreCompileInputs.cache
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/obj/Debug/net8.0/curso.dll
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/obj/Debug/net8.0/refint/curso.dll
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/obj/Debug/net8.0/curso.pdb
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/obj/Debug/net8.0/curso.genruntimeconfig.cache
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/obj/Debug/net8.0/ref/curso.dll
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/obj/Debug/net8.0/curso.csproj.AssemblyReference.cache
+/home/joao-victor/Área de trabalho/projetos/cursoemcsharp/curso/obj/Debug/net8.0/curso.csproj.CopyComplete
